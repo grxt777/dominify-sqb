@@ -290,6 +290,20 @@ start.bat
 
 ---
 
+## Полные материалы проекта
+
+Полная версия проекта, включая несжатый датасет (94 MB CSV) и обученные модели (.joblib), доступна по ссылке:
+
+**[Google Drive — полный архив проекта](https://drive.google.com/drive/folders/19PxbxZi_Qpi5tB1Qf4IKHjsJZok310oZ)**
+
+Содержимое:
+- `atm_transactions_enriched.csv` — полный датасет 394 245 транзакций
+- `models/xgb_regressor.joblib` — обученная регрессионная модель
+- `models/xgb_classifier.joblib` — обученная модель классификации
+- все исходники, дашборд и конфигурации
+
+---
+
 ## Воспроизводимость
 
 Проект полностью воспроизводим:
@@ -325,6 +339,17 @@ uvicorn api.main:app --port 8000
 | **Asalxon Nishonova** | Business Analyst |
 
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
