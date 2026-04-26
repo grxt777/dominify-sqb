@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
