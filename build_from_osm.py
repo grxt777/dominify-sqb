@@ -1,4 +1,4 @@
-"""
+﻿"""
 Читает real_atms.json (данные OSM) и:
 1. Обновляет ATM_LIST в generate_atm_dataset.py
 2. Обновляет ATM_META в dashboard/index.html

@@ -1,4 +1,4 @@
-"""
+﻿"""
 Парсит реальные банкоматы Юнусабадского района Ташкента
 через OpenStreetMap Overpass API и сохраняет в real_atms.json + real_atms.csv
 """

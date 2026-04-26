@@ -1,4 +1,4 @@
-import json
+﻿import json
 
 with open("C:/Users/gruto/OneDrive/Desktop/ATM/real_atms.json", encoding="utf-8") as f:
     data = json.load(f)

@@ -1,4 +1,4 @@
-with open('C:/Users/gruto/OneDrive/Desktop/ATM/dashboard/index.html', encoding='utf-8') as f:
+﻿with open('C:/Users/gruto/OneDrive/Desktop/ATM/dashboard/index.html', encoding='utf-8') as f:
     lines = f.readlines()
 
 issues = []
